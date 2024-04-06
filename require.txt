@@ -1,0 +1,8 @@
+spacy
+flask
+requests
+jsonify
+gunicorn
+eventlet
+pyjwt
+python-dotenv
